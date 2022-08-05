@@ -209,7 +209,7 @@ void toText(int number){
 }
 
 //Função recursiva que analisa de 3 em 3 dígitos um determinado número
-int recGetEx(long long int number, int counter){
+int recGetEx(unsigned long long int number, int counter){
 	if(number == 0){ 
 		return 0; //Caso base, acabou o número
 	}
@@ -263,6 +263,4 @@ int main(void){
 	}
 	
 	return 0;
-}
-
-		
+}	
