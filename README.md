@@ -9,3 +9,10 @@
 
 ## recFib:
   Programa em C com uma explicação e código da sequencia de fibonacci iterativa e recursiva
+
+## linkedList:
+  Programa em C com uma implementação de lista ligada com inserção e remoção
+  
+## readAndSort:
+  Programa em C que lê um vetor de inteiros e ordena usando bubble sort
+  
